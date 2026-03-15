@@ -1,0 +1,8 @@
+default_connection_name = "modern_data_engineering_snowflake"
+[cli]
+ignore_new_version_warning = false
+
+[cli.logs]
+save_logs = true
+path = "C:\\Users\\[USERNAME]\\.snowflake\\logs"
+level = "info"

@@ -1,0 +1,14 @@
+[VDM****-********]
+account = "VDM****-********"
+user = "********"
+authenticator = "snowflake"
+role = ""
+
+[modern_data_engineering_snowflake]
+account = "VDM****-********"
+user = "*********"
+password = "*************"
+database = "LOAD_DATA"
+schema = "PUBLIC"
+warehouse = "COMPUTE_WH"
+role = "ACCOUNTADMIN"
