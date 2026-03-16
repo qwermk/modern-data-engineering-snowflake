@@ -8,7 +8,7 @@ Repositorio del curso **[Introduction to Modern Data Engineering with Snowflake]
 |--------|------|--------|
 | 1 | Analytics & Streamlit Dashboard | ✅ Completado |
 | 2 | Ingesta y Carga de Datos | ✅ Completado |
-| 3 | Analytics Avanzado (Dynamic Tables, Streams, UDFs) | ⬚ Pendiente |
+| 3 | Analytics Avanzado (Dynamic Tables, Streams, UDFs) | ✅ Completado |
 | 4 | Snowflake Native Apps & Streamlit-in-Snowflake | ⬚ Pendiente |
 | 5 | Orquestación y Automatización (Tasks, DAGs) | ⬚ Pendiente |
 
